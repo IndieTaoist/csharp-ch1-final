@@ -8,6 +8,10 @@ A hands-on C# practice mini project for beginners — Chapter 1 personal exercis
 
 ![项目知识点](CSharp入门篇_实践小项目_必备知识点.png)
 
+## Execution Flow / 运行流程
+
+![程序运行流程](CSharp入门篇_实践小项目_运行流程.png)
+
 ## Credits & Acknowledgements
 
 - Course: *Unity Basics: C# for Beginners*
