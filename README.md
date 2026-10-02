@@ -6,7 +6,7 @@ A hands-on C# practice mini project for beginners — Chapter 1 personal exercis
 
 ## Key Concepts Used in This Project / 本项目用到的重要知识点
 
-![项目知识点](CSharp入门篇_实践小项目_需求分析.png)
+![项目知识点](CSharp入门篇_实践小项目_必备知识点.png)
 
 ## Credits & Acknowledgements
 
