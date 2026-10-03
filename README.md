@@ -2,7 +2,7 @@
 
 A hands-on C# practice mini project for beginners — Chapter 1 personal exercise.
 
-> 个人学习项目，参考自 C# 入门网课，代码由我独立实现，仅用于练习和作品展示。
+> 个人学习项目，参考自唐老狮的《Unity基础课程之C#入门》，代码由我独立实现，仅用于练习和作品展示。
 
 ## Key Concepts Used in This Project / 本项目用到的重要知识点
 
